@@ -15,6 +15,6 @@ The Pharmacy Management System is a Java-based application designed to streamlin
 - Secure login system for staff members
 
 ## Technologies Used:
-- **SQL**: For database design and queries.
-- **Triggers, Functions, Procedures**: For automated processes.
-- **ER Diagram**: To design and represent the database structure.
+- **Backend**: Java
+- **Database**: MySQL
+- **User Interface**: JavaFX, SwingGUI
